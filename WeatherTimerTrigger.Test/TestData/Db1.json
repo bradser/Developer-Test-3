@@ -1,0 +1,60 @@
+{
+    "cloudsPercentage": 90,
+    "dateTime": {
+        "sunriseUtc": "2019-09-09T13:38:34Z",
+        "sunsetUtc": "2019-09-10T02:35:09Z",
+        "dataCalculationUtc": "2019-09-09T20:14:52Z",
+        "timezoneShiftSeconds": -25200
+    },
+    "descriptions": [
+        {
+            "id": 500,
+            "mainDescription": "Rain",
+            "longDescription": "light rain",
+            "icon": "10d"
+        },
+        {
+            "id": 701,
+            "mainDescription": "Mist",
+            "longDescription": "mist",
+            "icon": "50d"
+        }
+    ],
+    "humidityPercentage": 88,
+    "internal": {
+        "base": "stations",
+        "cod": 200,
+        "system": {
+            "type": 1,
+            "id": 5692,
+            "message": 0.0126
+        }
+    },
+    "location": {
+        "country": "US",
+        "id": 5809844,
+        "name": "Seattle",
+        "coordinates": {
+            "latitudeDeg": 47.61,
+            "longitudeDeg": -122.33
+        }
+    },
+    "precipitation": {
+        "rain": {
+            "oneHourMm": 0.7,
+            "threeHourMm": 0
+        },
+        "snow": null
+    },
+    "pressurehPa": 1012,
+    "temperature": {
+        "currentC": 16.68,
+        "minimumC": 15.56,
+        "maximumC": 18
+    },
+    "visibility": 16093,
+    "wind": {
+        "speedKmph": 3.1,
+        "directionDeg": 190
+    }
+}
